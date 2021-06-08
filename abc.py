@@ -1,3 +1,3 @@
 from math import pi
-radius=int(input())
+radius=float(input())
 print(radius**2*pi)
